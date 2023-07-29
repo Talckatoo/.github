@@ -1,6 +1,6 @@
 # Talckatoo - Chat App
 
-![Talckatoo Logo](./talckatoo-logo.png)
+
 
 Talckatoo is an innovative chat app that brings people together through seamless communication. With Talckatoo, you can connect with friends, share moments, and stay connected no matter the distance. This repository serves as the official GitHub repository for Talckatoo, where we share the source code and collaborate with the community.
 
