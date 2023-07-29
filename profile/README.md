@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-#   Talckatoo - Chat App <img src="./cockatoo.png" alt="chat" style="width: 60px; height: 60px;"/>
-
+#   Talckatoo - Chat App 
+<div>
+<img src="./cockatoo.png" alt="chat" style="width: 60px; height: 60px;"/>
+</div>
 
 Welcome to Talckatoo, the ultimate chat app that focuses on organizing profiles! Talckatoo brings together the power of seamless communication and efficient profile management, making it the perfect platform for individuals, groups, and businesses alike.
 
-<video autoplay muted loop id="video-bg">
-    <source src="./Untitled ‑ Made with FlexClip.webm" type="video/mp4" />
-</video>
+<div>
+<img src="./Screenshot from 2023-07-29 15-19-02.png" alt="chat"  />
+</div>
 
 ## Table of Contents
 
@@ -31,22 +33,20 @@ Whether you're a freelancer managing multiple clients, a team lead overseeing va
 
 - **Profile-based Communication:** Create and customize profiles for different contexts, keeping conversations separate and well-organized.
 
-- **Effortless Switching:** Seamlessly switch between profiles with just a few taps or clicks, making it easy to engage with various groups of people.
-
 - **Secure and Private:** Talckatoo prioritizes your privacy and security. All communications are end-to-end encrypted, ensuring your data remains safe.
 
 - **Real-time Messaging:** Enjoy instant messaging with real-time message delivery, ensuring smooth and efficient conversations.
 
 - **Media Sharing:** Share photos, videos, files, and more with your contacts directly from the app.
 
-- **Notification Customization:** Tailor your notification settings for each profile to stay informed without being overwhelmed.
-
-- **Cross-Platform Support:** Talckatoo is available on all major platforms, including iOS, Android, Web, and Desktop.
+- **Cross-Platform Support:** Talckatoo is available on  Web.
 
 ## Getting Started
 
 To get started with Talckatoo, follow these simple steps:
-
+<div>
+<img src="./Screenshot from 2023-07-29 15-21-46.png" alt="chat"  />
+</div>
 ## Installation
 
 1. Visit our website at [www.talckatoo.com](https://www.talckatoo.com) and click on the 'Download' button.
@@ -61,17 +61,22 @@ To get started with Talckatoo, follow these simple steps:
 
 2. Sign up for an account or log in if you already have one.
 
-3. Create your first profile. You can choose a name, add a profile picture, and customize the settings according to your preferences.
+3. Create your first profile. You can choose a name, add a profile picture.
 
 4. Start adding contacts to your profile by searching for their usernames or inviting them via email or phone number.
 
-5. Begin chatting! You can switch between profiles easily to manage different conversations.
+5. Begin chatting!
 
-## Video
+## Screanshots
 
-<video autoplay muted loop id="video-bg">
-    <source src="./ba55dcfb-5abc-46e7-91f8-c705bbef0f05.webm" type="video/mp4" />
-</video>
+<div>
+<img src="./Screenshot from 2023-07-29 15-20-51.png" alt="chat"  />
+<img src="./Screenshot from 2023-07-29 15-21-02.png" alt="chat"  />
+<img src="./Screenshot from 2023-07-29 15-21-29.png" alt="chat"  />
+<img src="./Screenshot from 2023-07-29 15-21-37.png" alt="chat"  />
+</div>
+
+
 
 ## Contributing
 
@@ -79,7 +84,10 @@ We welcome contributions from the community to make Talckatoo even better! If yo
 
 ## Support
 
-If you need any assistance or have questions, you can reach out to our support team at [support@talckatoo.com](mailto:support@talckatoo.com) or join our community forum [here](https://community.talckatoo.com).
+If you need any assistance or have questions, you can reach out to our support team at 
+<div>
+<img src="./Screenshot from 2023-07-29 15-21-49.png" alt="chat"  />
+</div>
 
 ## License
 
