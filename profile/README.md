@@ -9,7 +9,7 @@
 🙋‍♀️ Welcome to Talckatoo, the ultimate chat app that focuses on organizing profiles! Talckatoo combines seamless communication and efficient profile management, making it the perfect platform for chatting and making new friends from all around the world 
 
 <div>
-<img src="./../Screenshot from 2023-07-29 15-19-02.png" alt="chat"  />
+<img src="https://i.imgur.com/VQTznDz.png" alt="chat"  />
 </div>
 
 ## Table of Contents
@@ -46,7 +46,7 @@ Whether you're a freelancer managing multiple clients, a team lead overseeing va
 
 To get started with Talckatoo, follow these simple steps:
 <div>
-<img src="./../Screenshot from 2023-07-29 15-21-46.png" alt="chat"  />
+<img src="https://i.imgur.com/e9ydMj3.png" alt="chat"  />
 </div>
 ## Installation
 
@@ -71,10 +71,10 @@ To get started with Talckatoo, follow these simple steps:
 ## Screanshots
 
 <div>
-<img src="./../Screenshot from 2023-07-29 15-20-51.png" alt="chat"  />
-<img src="./../Screenshot from 2023-07-29 15-21-02.png" alt="chat"  />
-<img src="./../Screenshot from 2023-07-29 15-21-29.png" alt="chat"  />
-<img src="./../Screenshot from 2023-07-29 15-21-37.png" alt="chat"  />
+<img src="https://i.imgur.com/wrWxCjr.png" alt="chat"  />
+<img src="https://i.imgur.com/aVY2l3j.png" alt="chat"  />
+<img src="https://i.imgur.com/X2DmKi4.png" alt="chat"  />
+<img src="https://i.imgur.com/Mwq42zs.png" alt="chat"  />
 </div>
 
 
@@ -87,7 +87,7 @@ To get started with Talckatoo, follow these simple steps:
 
 🍿If you need any assistance or have questions, you can reach out to our support team at 
 <div>
-<img src="./../Screenshot from 2023-07-29 15-21-49.png" alt="chat"  />
+<img src="https://i.imgur.com/WNDXmQb.png" alt="chat"  />
 </div>
 
 ## License
