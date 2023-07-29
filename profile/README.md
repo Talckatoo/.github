@@ -1,9 +1,6 @@
 ## Hi there 👋 Welcome to:
 
 #   [Talckatoo](https://talckatoo.github.io/promo_talckatoo/) - Chat App 
-<div>
-<img src="https://i.imgur.com/sx8W2pc.png" alt="chat" style="width: 60px; height: 60px;"/>
-</div>
 
 
 🙋‍♀️ Welcome to Talckatoo, the ultimate chat app that focuses on organizing profiles! Talckatoo combines seamless communication and efficient profile management, making it the perfect platform for chatting and making new friends from all around the world 
