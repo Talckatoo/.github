@@ -8,7 +8,7 @@
 🙋‍♀️ Welcome to Talckatoo, the ultimate chat app that focuses on organizing profiles! Talckatoo combines seamless communication and efficient profile management, making it the perfect platform for chatting and making new friends from all around the world 
 
 <div>
-<img src="./../Screenshot from 2023-07-29 15-19-02.png" alt="chat"  style="width:1000px; height: 600px;"/>
+<img src="./../Screenshot from 2023-07-29 15-19-02.png" alt="chat"  />
 </div>
 
 ## Table of Contents
