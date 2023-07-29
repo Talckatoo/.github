@@ -2,7 +2,7 @@
 
 #   Talckatoo - Chat App 
 <div>
-<img src="./../cockatoo.png" alt="chat" style="width: 60px; height: 60px;"/>
+<img src="https://mms.businesswire.com/media/20210830005101/en/1189320/4/Talkatoo_horiz_logo.jpg?download=1" alt="chat" style="width: 60px; height: 60px;"/>
 </div>
 
 🙋‍♀️ Welcome to Talckatoo, the ultimate chat app that focuses on organizing profiles! Talckatoo combines seamless communication and efficient profile management, making it the perfect platform for chatting and making new friends from all around the world 
