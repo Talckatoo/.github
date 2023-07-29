@@ -2,7 +2,7 @@
 
 #   Talckatoo - Chat App 
 <div>
-<img src="https://imgur.com/sx8W2pc" alt="chat" style="width: 60px; height: 60px;"/>
+<img src="https://i.imgur.com/sx8W2pc.png" alt="chat" style="width: 60px; height: 60px;"/>
 </div>
 
 
