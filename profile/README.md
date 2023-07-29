@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to:
 
-#   Talckatoo - Chat App 
+#   [Talckatoo](https://talckatoo.github.io/promo_talckatoo/) - Chat App 
 <div>
 <img src="https://i.imgur.com/sx8W2pc.png" alt="chat" style="width: 60px; height: 60px;"/>
 </div>
