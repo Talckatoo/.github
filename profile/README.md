@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 👋 Welcome to:
 
 #   Talckatoo - Chat App 
 <div>
 <img src="./../cockatoo.png" alt="chat" style="width: 60px; height: 60px;"/>
 </div>
 
-🙋‍♀️ Welcome to Talckatoo, the ultimate chat app that focuses on organizing profiles! Talckatoo brings together the power of seamless communication and efficient profile management, making it the perfect platform for individuals, groups, and businesses alike.
+🙋‍♀️ Welcome to Talckatoo, the ultimate chat app that focuses on organizing profiles! Talckatoo combines seamless communication and efficient profile management, making it the perfect platform for chatting and making new friends from all around the world 
 
 <div>
 <img src="./../Screenshot from 2023-07-29 15-19-02.png" alt="chat"  />
