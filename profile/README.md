@@ -47,7 +47,7 @@ To get started with Talckatoo, follow these simple steps:
 </div>
 ## Installation
 
-1. Visit our website at [www.talckatoo.com](https://www.talckatoo.com) and click on the 'Download' button.
+1. Visit our website at [www.talckatoo.com](https://www.talckatoo.me) and click on the 'Download' button.
 
 2. Choose your platform (iOS, Android, Web, or Desktop) and follow the on-screen instructions to download the app.
 
