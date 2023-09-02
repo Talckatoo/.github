@@ -42,12 +42,10 @@ Whether you're a freelancer managing multiple clients, a team lead overseeing va
 ## Getting Started
 
 To get started with Talckatoo, follow these simple steps:
-<div>
-<img src="https://i.imgur.com/e9ydMj3.png" alt="chat"  />
-</div>
+
 ## Installation
 
-1. Visit our website at [www.talckatoo.com](https://www.talckatoo.me) and click on the 'Download' button.
+1. Visit our website at [www.talckatoo.me](https://www.talckatoo.me) and click on the 'Download' button.
 
 2. Choose your platform (iOS, Android, Web, or Desktop) and follow the on-screen instructions to download the app.
 
