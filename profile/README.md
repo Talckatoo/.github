@@ -14,9 +14,9 @@ Who are your competitors? What do you understand about your business that they d
 - What sets Talckatoo apart from its competitors is its seamless integration of real-time text-to-text and voice-to-voice translation directly into chat conversations. This unique feature allows users to engage in chat, send voice notes, and exchange messages without the need to know each other's language.
 - Talckatoo's exclusive focus on in-chat translation distinguishes us from the competition, offering unmatched convenience and fostering global connections without language barriers.
 
-Link App: [www.talckatoo.me](https://www.talckatoo.me)
-Link Promo: [talckatoo.github.io/promo_talckatoo/](https://talckatoo.github.io/promo_talckatoo/)
-Link Social Media: [LinkedIn](https://www.linkedin.com/company/96162808/admin/feed/posts/)
+- Link App: [www.talckatoo.me](https://www.talckatoo.me)
+- Link Promo: [talckatoo.github.io/promo_talckatoo/](https://talckatoo.github.io/promo_talckatoo/)
+- Link Social Media: [LinkedIn](https://www.linkedin.com/company/96162808/admin/feed/posts/)
 
 <div>
 <img src="https://i.imgur.com/VQTznDz.png" alt="chat"  />
