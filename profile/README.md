@@ -56,13 +56,14 @@ In the initial stages of our project, we've actively engaged with over 100 poten
   <img width="1440" alt="image" src="https://github.com/Talckatoo/talckatoo_server/assets/109603295/1a5ea9da-5d7d-42aa-bf0e-71c29bc7de5e">
   <img width="1440" alt="image" src="https://github.com/Talckatoo/talckatoo_server/assets/109603295/494c640a-8829-44d6-8962-59e08a3be807">
 
-## 👥 Author
+## 👥 Develop Team 
 - 👤 Tam Pham [Miminiverse](https://github.com/Miminiverse) - Co-founder & Full-stack Developer
 - 👤 Rabiu Abdulazeez Danmaihaja [Abdulaiman](https://github.com/Abdulaiman) - Co-founder & Backend Developer
 - 👤 Laasri Said [Said Laasri](https://github.com/Said-laasri) - Co-founder & Frontend Developer
 - 👤 Manny Montes [mdmontes](https://github.com/mdmontes) - Backend Developer
 - 👤 Mohamed Aachour [AACHOURMOHAMED](https://github.com/AACHOURMOHAMED) - Full-stack Developer
-- 👤 Saúl Castillo [secch97]([https://github.com/mdmontes](https://github.com/secch97)) - Frontend Developer
+- 👤 Saúl Castillo [secch97](https://github.com/secch97) - Frontend Developer
+- 👤 Yelena Japarova [DYA13](https://github.com/DYA13) - Frontend Developer
 
 ## Support
 
