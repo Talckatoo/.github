@@ -26,7 +26,7 @@ Who are your competitors? What do you understand about your business that they d
 ## Table of Contents
 
 - [Features](#features)
-- [User Engagement] (user-engagement)
+- [User Engagement](#user-engagement)
 - [API Docs](#api-docs)
 - [Author](#author)
 - [Support](#support)
