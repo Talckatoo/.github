@@ -9,14 +9,18 @@ If we want to communicate with someone who doesn't understand our language, we b
 We are all first-time learners in this field, but we've demonstrated our ability to learn quickly and make significant progress in just 2 months.
 - Talckatoo's mission is to eliminate these language barriers. Talckatoo delivers seamless real-time language translation and transcription right within your chat interface. It empowers users to effortlessly connect with individuals who speak diverse languages, as our innovative technology automatically translates text or voice messages from the sender into the recipient's preferred language.
 
+Who are your competitors? What do you understand about your business that they don't?
+- Our primary competitors include iMessage, Google Translate, Microsoft Translator, iTranslate, SayHi Translate, and Papago. While these platforms offer real-time translation capabilities and chat applications, none of them offer the level of convenience that Talckatoo provides within a chat environment.
+- What sets Talckatoo apart from its competitors is its seamless integration of real-time text-to-text and voice-to-voice translation directly into chat conversations. This unique feature allows users to engage in chat, send voice notes, and exchange messages without the need to know each other's language.
+- Talckatoo's exclusive focus on in-chat translation distinguishes us from the competition, offering unmatched convenience and fostering global connections without language barriers.
 
-Link Demo: https://youtu.be/lkLmidpuwNU
+Link App: [www.talckatoo.me](https://www.talckatoo.me)
+Link Promo: [talckatoo.github.io/promo_talckatoo/](https://talckatoo.github.io/promo_talckatoo/)
+Link Social Media: [LinkedIn](https://www.linkedin.com/company/96162808/admin/feed/posts/)
 
 <div>
 <img src="https://i.imgur.com/VQTznDz.png" alt="chat"  />
 </div>
-
-Link App: [www.talckatoo.me](https://www.talckatoo.me)
 
 
 ## Table of Contents
@@ -28,21 +32,18 @@ Link App: [www.talckatoo.me](https://www.talckatoo.me)
 - [Support](#support)
 - [License](#license)
 
+<img width="1440" alt="image" src="https://github.com/Talckatoo/.github/assets/109603295/f2e50ee5-89e2-4901-ac99-e7ce8e255cb1">
+<img width="1440" alt="image" src="https://github.com/Talckatoo/.github/assets/109603295/8a7ecf8c-a7bb-4ae9-835c-3266986bb2dd">
+<img width="1436" alt="Screenshot 2023-07-21 at 10 15 02 PM" src="https://github.com/Talckatoo/talckatoo_server/assets/109603295/49925aed-4a3c-4bda-9eb4-c457b239ecaa">
+<img width="1436" alt="Screenshot 2023-07-21 at 10 12 03 PM" src="https://github.com/Talckatoo/talckatoo_server/assets/109603295/b887acfd-8d27-4f22-8b76-ad1665acb717">
+<img width="1440" alt="image" src="https://github.com/Talckatoo/.github/assets/109603295/35a639a9-caf6-41ca-8d80-77c9446d9116">
 
-<div>
-<img src="https://i.imgur.com/wrWxCjr.png" alt="chat"  />
-<img src="https://i.imgur.com/aVY2l3j.png" alt="chat"  />
-<img src="https://i.imgur.com/X2DmKi4.png" alt="chat"  />
-<img src="https://i.imgur.com/Mwq42zs.png" alt="chat"  />
-</div>
 
 ## Features
 
 - Real-time text-to-text translated messages and voice-to-voice translation.
 - Seamless AI assistance within the chat interface.
 - Typing indicators for live chat feedback.
-<img width="1436" alt="Screenshot 2023-07-21 at 10 15 02 PM" src="https://github.com/Talckatoo/talckatoo_server/assets/109603295/49925aed-4a3c-4bda-9eb4-c457b239ecaa">
-<img width="1436" alt="Screenshot 2023-07-21 at 10 12 03 PM" src="https://github.com/Talckatoo/talckatoo_server/assets/109603295/b887acfd-8d27-4f22-8b76-ad1665acb717">
 
 
 ## User Engagement
