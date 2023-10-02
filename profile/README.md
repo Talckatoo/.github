@@ -57,11 +57,13 @@ In the initial stages of our project, we've actively engaged with over 100 poten
   <img width="1440" alt="image" src="https://github.com/Talckatoo/talckatoo_server/assets/109603295/494c640a-8829-44d6-8962-59e08a3be807">
 
 ## 👥 Author
-- 👤 Tam Pham [Miminiverse](https://github.com/Miminiverse) - Co-founder
-- 👤 Rabiu Abdulazeez Danmaihaja [Abdulaiman](https://github.com/Abdulaiman) - Co-founder
-- 👤 Laasri Said [Said Laasri](https://github.com/Said-laasri) - Co-founder
-- 👤 Manny Montes [mdmontes](https://github.com/mdmontes)
-  
+- 👤 Tam Pham [Miminiverse](https://github.com/Miminiverse) - Co-founder & Full-stack Developer
+- 👤 Rabiu Abdulazeez Danmaihaja [Abdulaiman](https://github.com/Abdulaiman) - Co-founder & Backend Developer
+- 👤 Laasri Said [Said Laasri](https://github.com/Said-laasri) - Co-founder & Frontend Developer
+- 👤 Manny Montes [mdmontes](https://github.com/mdmontes) - Backend Developer
+- 👤 Mohamed Aachour [AACHOURMOHAMED](https://github.com/AACHOURMOHAMED) - Full-stack Developer
+- 👤 Saúl Castillo [secch97]([https://github.com/mdmontes](https://github.com/secch97)) - Frontend Developer
+
 ## Support
 
 🍿If you need any assistance or have questions, please reach out to our support team at: talckatoodev@gmail.com
@@ -77,10 +79,9 @@ Talckatoo is released under the [MIT License](LICENSE).
 ## Special thanks to :
 
 **\*\***\***\*\*** [Frank Stepanski](https://github.com/frankstepanski) \***\*\*\*\*\*\*\***
-
 **\*\***\***\*\*** [Roy Mosby](https://github.com/royemosby) \***\*\*\*\*\*\*\***
+**\*\***\***\*\*** [Jaheem Prevost](https://github.com/jaheemprevost) \***\*\*\*\*\*\*\***
 
-**\*\***\***\*\*** [Jaheem Prevost](https://github.com/jaheemprevost) **\*\***\*\*\***\*\***
 ---
 
 Thank you for choosing Talckatoo as your go-to chat app for profile organization. We hope you have a fantastic experience using our app. If you love using Talckatoo, don't forget to spread the word and share it with your friends and colleagues! Happy chatting! 
