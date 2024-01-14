@@ -78,10 +78,14 @@ In the initial stages of our project, we've actively engaged with over 100 poten
 Talckatoo is released under the [MIT License](LICENSE).
 
 ## Special thanks to :
-**\*\*\*\*\*\*\*** [DYA13](https://github.com/DYA13) ******/***/***
-**\*\***\***\*\*** [mdmontes](https://github.com/mdmontes) **\*\***\***\*\****/****
+**\*\*\*\*\*\*\*** [DYA13](https://github.com/DYA13)  \***\*\*\*\*\*\*\***
+
+**\*\***\***\*\*** [mdmontes](https://github.com/mdmontes) **\*\***\***\*\*******
+
 **\*\***\***\*\*** [Frank Stepanski](https://github.com/frankstepanski) \***\*\*\*\*\*\*\***
+
 **\*\***\***\*\*** [Roy Mosby](https://github.com/royemosby) \***\*\*\*\*\*\*\***
+
 **\*\***\***\*\*** [Jaheem Prevost](https://github.com/jaheemprevost) \***\*\*\*\*\*\*\***
 
 ---
