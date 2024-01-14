@@ -33,10 +33,13 @@ Who are your competitors? What do you understand about your business that they d
 - [License](#license)
 
 ![Screenshot from 2023-10-21 14-45-03](https://github.com/Talckatoo/.github/assets/100702612/a243f02b-d59d-4ac2-8f0c-187929e587d3)
-<img width="1440" alt="image" src="https://github.com/Talckatoo/.github/assets/109603295/8a7ecf8c-a7bb-4ae9-835c-3266986bb2dd">
-<img width="1436" alt="Screenshot 2023-07-21 at 10 15 02 PM" src="https://github.com/Talckatoo/talckatoo_server/assets/109603295/49925aed-4a3c-4bda-9eb4-c457b239ecaa">
-<img width="1436" alt="Screenshot 2023-07-21 at 10 12 03 PM" src="https://github.com/Talckatoo/talckatoo_server/assets/109603295/b887acfd-8d27-4f22-8b76-ad1665acb717">
-<img width="1440" alt="image" src="https://github.com/Talckatoo/.github/assets/109603295/35a639a9-caf6-41ca-8d80-77c9446d9116">
+
+![Screenshot 2024-01-14 112835](https://github.com/Talckatoo/.github/assets/100702612/fdeeb1cb-d1bc-4739-9bbd-a8ed97735c5e)
+
+![Screenshot 2024-01-14 112854](https://github.com/Talckatoo/.github/assets/100702612/f039b586-6f98-4028-9e84-4b829b823858)
+![Screenshot 2024-01-14 112911](https://github.com/Talckatoo/.github/assets/100702612/e750a4eb-1ea5-417d-bf26-759cc4c8b8cb)
+![Screenshot 2024-01-14 114245](https://github.com/Talckatoo/.github/assets/100702612/242aebd6-1e11-4d3c-a56b-e000502be39e)
+![Screenshot 2024-01-14 114331](https://github.com/Talckatoo/.github/assets/100702612/b007468d-b92b-49f1-8dfa-03ff5662f734)
 
 
 ## Features
@@ -64,7 +67,8 @@ In the initial stages of our project, we've actively engaged with over 100 poten
 - 👤 Mohamed Aachour [AACHOURMOHAMED](https://github.com/AACHOURMOHAMED) - Full-stack Developer
 - 👤 Saúl Castillo [secch97](https://github.com/secch97) - Frontend Developer
 - 👤 Yelena Japarova [DYA13](https://github.com/DYA13) - Frontend Developer
-
+- 👤 Tarik Bouari [tarikbouari](https://github.com/tarikbouari) -  Frontend Developer
+- 👤 Tammam Alwafai [TammamWafai](https://github.com/TammamWafai) -  Frontend Developer
 ## Support
 
 🍿If you need any assistance or have questions, please reach out to our support team at: talckatoodev@gmail.com
