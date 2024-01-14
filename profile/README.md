@@ -60,12 +60,11 @@ In the initial stages of our project, we've actively engaged with over 100 poten
 - 👤 Tam Pham [Miminiverse](https://github.com/Miminiverse) - Co-founder & Full-stack Developer
 - 👤 Rabiu Abdulazeez Danmaihaja [Abdulaiman](https://github.com/Abdulaiman) - Co-founder & Backend Developer
 - 👤 Laasri Said [Said Laasri](https://github.com/Said-laasri) - Co-founder & Frontend Developer
-- 👤 Manny Montes [mdmontes](https://github.com/mdmontes) - Backend Developer
 - 👤 Mohamed Aachour [AACHOURMOHAMED](https://github.com/AACHOURMOHAMED) - Full-stack Developer
-- 👤 Saúl Castillo [secch97](https://github.com/secch97) - Frontend Developer
-- 👤 Yelena Japarova [DYA13](https://github.com/DYA13) - Frontend Developer
 - 👤 Tarik Bouari [tarikbouari](https://github.com/tarikbouari) -  Frontend Developer
 - 👤 Tammam Alwafai [TammamWafai](https://github.com/TammamWafai) -  Frontend Developer
+- 👤 Saúl Castillo [secch97](https://github.com/secch97) - Frontend Developer
+
 ## Support
 
 🍿If you need any assistance or have questions, please reach out to our support team at: talckatoodev@gmail.com
@@ -79,7 +78,8 @@ In the initial stages of our project, we've actively engaged with over 100 poten
 Talckatoo is released under the [MIT License](LICENSE).
 
 ## Special thanks to :
-
+**\*\*\*\*\*\*\*** [DYA13](https://github.com/DYA13) ******/***/***
+**\*\***\***\*\*** [mdmontes](https://github.com/mdmontes) **\*\***\***\*\****/****
 **\*\***\***\*\*** [Frank Stepanski](https://github.com/frankstepanski) \***\*\*\*\*\*\*\***
 **\*\***\***\*\*** [Roy Mosby](https://github.com/royemosby) \***\*\*\*\*\*\*\***
 **\*\***\***\*\*** [Jaheem Prevost](https://github.com/jaheemprevost) \***\*\*\*\*\*\*\***
