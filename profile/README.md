@@ -32,10 +32,7 @@ Who are your competitors? What do you understand about your business that they d
 - [Support](#support)
 - [License](#license)
 
-![Screenshot from 2023-10-21 14-45-03](https://github.com/Talckatoo/.github/assets/100702612/a243f02b-d59d-4ac2-8f0c-187929e587d3)
-
 ![Screenshot 2024-01-14 112835](https://github.com/Talckatoo/.github/assets/100702612/fdeeb1cb-d1bc-4739-9bbd-a8ed97735c5e)
-
 ![Screenshot 2024-01-14 112854](https://github.com/Talckatoo/.github/assets/100702612/f039b586-6f98-4028-9e84-4b829b823858)
 ![Screenshot 2024-01-14 112911](https://github.com/Talckatoo/.github/assets/100702612/e750a4eb-1ea5-417d-bf26-759cc4c8b8cb)
 ![Screenshot 2024-01-14 114245](https://github.com/Talckatoo/.github/assets/100702612/242aebd6-1e11-4d3c-a56b-e000502be39e)
