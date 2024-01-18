@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to:
 
-#   [Talckatoo](https://talckatoo.github.io/promo_talckatoo/) - Chat App 
+#   [Talckatoo](https://www.talckatoo.me/) - Chat App 
 
 Why did we pick this idea to work on and what's Talckatoo's purpose?
 - We couldn't find any real chat app that allows seamless communication with individuals who don't speak the same language.
