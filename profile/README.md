@@ -62,7 +62,7 @@ In the initial stages of our project, we've actively engaged with over 100 poten
 - 👤 Laasri Said [Said Laasri](https://github.com/Said-laasri) - Co-founder & Frontend Developer
 - 👤 Mohamed Aachour [AACHOURMOHAMED](https://github.com/AACHOURMOHAMED) - Full-stack Developer
 - 👤 Tarik Bouari [tarikbouari](https://github.com/tarikbouari) -  Frontend Developer
-- 👤 Tammam Alwafai [TammamWafai](https://github.com/TammamWafai) -  Frontend Developer
+- 👤 T A [1992tw](https://github.com/1992tw) -  Frontend Developer
 - 👤 Saúl Castillo [secch97](https://github.com/secch97) - Frontend Developer
 
 ## Support
